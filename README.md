@@ -2,7 +2,7 @@
 
 Modding character behavior in AI SHoujo.
 
-## LimitSurprise
+## LessSurprise
 
 Characters may be surprised, but they won't stop what they're doing. They also won't be surprised again for a while (10m).
 
@@ -14,9 +14,9 @@ Characters will interact more with furniture. Open the plugin settings to change
 
 Normally characters only masturbate if they run out of motivation when they have a high H desire, otherwise they always look for MC or failing that another character.  With this plugin they will randomly seek to masturbate first.  Control how often this happens as a percent in the plugin options.
 
-# LessPants
+# LessClothes
 
-Makes characters undress more when doing various things.
+Makes characters undress more when doing various things.  Settings in plugin options.
 
 # How to use
 - To install copy the .dll to BepInEx\plugins.
